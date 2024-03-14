@@ -130,6 +130,7 @@ main div {
 
 .div-imagen:hover {
   background-image: url("../img/img-comprimidas/ddd91ab347420bb8cf976dc00de884e1.png");
+  aspect-ratio: 355/222;
 }
 
 h3 {
