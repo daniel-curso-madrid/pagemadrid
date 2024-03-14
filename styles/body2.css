@@ -129,6 +129,8 @@ main div {
 
 .div-imagen:hover {
   background-image: url("../img/img-comprimidas/645735a6-6176-4b65-baea-9f3529d32723_alta-libre-aspect-ratio_default_0.jpg");
+  /* aspect-ratio: 50/29;
+  height: 100%; */
 }
 
 h3 {
