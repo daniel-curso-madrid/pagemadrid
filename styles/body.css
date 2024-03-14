@@ -46,7 +46,7 @@ nav {
   /* background-color: red; */
   /* position: absolute;
   bottom: 0; */
-  background-image: linear-gradient(to top,#35374B,#000000);
+  background-image: linear-gradient(to top, #35374b, #000000);
 }
 
 ul {
@@ -98,7 +98,8 @@ main {
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: auto;
   padding: 10px;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.8)),url("https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/1200px-Flag_of_England.svg.png");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.8)),
+    url("https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/1200px-Flag_of_England.svg.png");
   background-size: cover;
   background-position: center;
 }
@@ -115,7 +116,7 @@ main div {
 }
 
 .div-imagen {
-  background-image: url("../img/195955f68019ab92f26f4ca4301e133b.png");
+  background-image: url("../img/img-comprimidas/195955f68019ab92f26f4ca4301e133b.png");
   aspect-ratio: 355/222;
   background-position: center;
   background-repeat: no-repeat;
@@ -128,7 +129,7 @@ main div {
 }
 
 .div-imagen:hover {
-  background-image: url("../img/ddd91ab347420bb8cf976dc00de884e1.png");
+  background-image: url("../img/img-comprimidas/ddd91ab347420bb8cf976dc00de884e1.png");
 }
 
 h3 {
@@ -162,7 +163,7 @@ p {
 }
 
 footer {
-  background-image: linear-gradient(to top,#35374B,#000000);
+  background-image: linear-gradient(to top, #35374b, #000000);
   grid-column: 1 / 4;
   height: 50px;
   color: white;

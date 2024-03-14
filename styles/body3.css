@@ -46,7 +46,7 @@ nav {
   /* background-color: red; */
   /* position: absolute;
       bottom: 0; */
-      background-image: linear-gradient(to top,#35374B,#000000);
+  background-image: linear-gradient(to top, #35374b, #000000);
 }
 
 ul {
@@ -116,7 +116,7 @@ main div {
 }
 
 .div-imagen {
-  background-image: url("../img/pexels-pixabay-56886.jpg");
+  background-image: url("../img/img-comprimidas/pexels-pixabay-56886.jpg");
   aspect-ratio: 634/407;
   background-position: center;
   background-repeat: no-repeat;
@@ -129,7 +129,7 @@ main div {
 }
 
 .div-imagen:hover {
-  background-image: url("../img/950370.jpg");
+  background-image: url("../img/img-comprimidas/950370.jpg");
 }
 
 h3 {
@@ -163,7 +163,7 @@ p {
 }
 
 footer {
-  background-image: linear-gradient(to top,#35374B,#000000);
+  background-image: linear-gradient(to top, #35374b, #000000);
   grid-column: 1 / 4;
   height: 50px;
   color: white;

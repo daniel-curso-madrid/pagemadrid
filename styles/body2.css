@@ -115,7 +115,7 @@ main div {
 }
 
 .div-imagen {
-  background-image: url("../img/madrid.jpg");
+  background-image: url("../img/img-comprimidas/madrid.jpg");
   aspect-ratio: 640/403;
   background-position:center;
   background-repeat: no-repeat;
@@ -128,7 +128,7 @@ main div {
 }
 
 .div-imagen:hover {
-  background-image: url("../img/645735a6-6176-4b65-baea-9f3529d32723_alta-libre-aspect-ratio_default_0.jpg");
+  background-image: url("../img/img-comprimidas/645735a6-6176-4b65-baea-9f3529d32723_alta-libre-aspect-ratio_default_0.jpg");
 }
 
 h3 {
